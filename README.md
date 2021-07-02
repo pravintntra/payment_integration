@@ -1,1 +1,1 @@
-# paymeny_integration
+# payment_integration
